@@ -1,0 +1,66 @@
+{
+  "uid" : "3ef9cbf635b77dba",
+  "name" : "Given I am on the phptravels page",
+  "fullName" : "Performing a login: Performing login operation with passing test data as data table.Given I am on the phptravels page",
+  "historyId" : "93108443f91658b7c7edecbbd2db23bc",
+  "time" : {
+    "start" : 1574366882873,
+    "stop" : 1574366887980,
+    "duration" : 5107
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the phptravels page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-19.0.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2ff5c6dd5769750f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366650194,
+        "stop" : 1574366655875,
+        "duration" : 5681
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ef9cbf635b77dba.json",
+  "parameterValues" : [ "firefox-19.0.0" ]
+}

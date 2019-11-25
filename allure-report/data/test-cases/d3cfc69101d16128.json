@@ -1,0 +1,64 @@
+{
+  "uid" : "d3cfc69101d16128",
+  "name" : "Given I am on the search page",
+  "fullName" : "Performing a Yahoo Search: Performing a search operation.Given I am on the search page",
+  "historyId" : "6e61916fec551431df50e9e38c762753",
+  "time" : {
+    "start" : 1574365596111,
+    "stop" : 1574365598029,
+    "duration" : 1918
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'Yahoo is now part of Verizon Media' to equal 'Yahoo Search - Web Search'",
+  "statusTrace" : "AssertionError: expected 'Yahoo is now part of Verizon Media' to equal 'Yahoo Search - Web Search'\n                    at World.<anonymous> (/Users/johnmorris/response/webapp/test/stepDefinitions/given.js:11:31)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a Yahoo Search: Performing a search operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a Yahoo Search: Performing a search operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the search page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a Yahoo Search: Performing a search operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d3cfc69101d16128.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

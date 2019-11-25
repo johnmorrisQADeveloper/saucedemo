@@ -1,0 +1,66 @@
+{
+  "uid" : "219b781ae0cf3c09",
+  "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+  "fullName" : "Performing a login: Performing login operation with passing test data as data table.When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+  "historyId" : "daf7fb99fc1b2d4d85d955b283d6e0a7",
+  "time" : {
+    "start" : 1574366887980,
+    "stop" : 1574366888393,
+    "duration" : 413
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-19.0.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "898194505c16f593",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366655875,
+        "stop" : 1574366656315,
+        "duration" : 440
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "219b781ae0cf3c09.json",
+  "parameterValues" : [ "firefox-19.0.0" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "8caa29278545139",
+  "name" : "Given I am on the phptravels page",
+  "fullName" : "Performing a login: Performing login operation with passing test data as data table.Given I am on the phptravels page",
+  "historyId" : "77ffd75eb20756b22384ed2e2edcded3",
+  "time" : {
+    "start" : 1574366882714,
+    "stop" : 1574366886418,
+    "duration" : 3704
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the phptravels page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7de807bee8339039",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366648763,
+        "stop" : 1574366653612,
+        "duration" : 4849
+      }
+    }, {
+      "uid" : "c58ca67949b8401",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366569378,
+        "stop" : 1574366574496,
+        "duration" : 5118
+      }
+    }, {
+      "uid" : "cb4036ab8f0c43ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574365596110,
+        "stop" : 1574365600494,
+        "duration" : 4384
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8caa29278545139.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

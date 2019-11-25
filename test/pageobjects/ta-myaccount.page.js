@@ -6,7 +6,7 @@ class MyAccount extends Page {
     * define elements
     */
 
-    get accountMessage () { return $('.text-align-left'); }
+    get accountMessage () { return $('#inventory_filter_container > div'); }
 
     /**
      * define or overwrite page methods

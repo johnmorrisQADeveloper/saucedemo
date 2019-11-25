@@ -26,54 +26,54 @@ exports.config = {
     //
     maxInstances: 1,
 
-    capabilities: [{
-        appiumVersion: '1.15.0',
-        automationName: 'XCUITest',
-        platformName: 'iOS',
-        platformVersion: '11.4',
-        deviceName: 'iPhone Simulator',
-        //deviceName: 'iPhone 6s',
-        browserName: 'Safari',
-        //orientation: 'PORTRAIT',
-        //nativeInstrumentsLib: true,
-        //isolateSimDevice: true,
-        clearSystemFiles: true,
-        //commandTimeout: '7200',
-        //app: APP_PATH
-    }],
-
     // capabilities: [{
     //     appiumVersion: '1.15.0',
-    //     automationName: 'Appium',
-    //     platformName: 'Android',
-    //     //platformVersion: '9.0',
-    //     deviceName: 'Android Emulator',
+    //     automationName: 'XCUITest',
+    //     platformName: 'iOS',
+    //     platformVersion: '13.2',
+    //     deviceName: 'iPhone Simulator',
     //     //deviceName: 'iPhone 6s',
-    //     browserName: 'chrome',
-    //     // chromeOptions: {
-    //     //   androidPackage: 'com.android.chrome',
-    //     // },
-    //     //setDebugApp: '--persistent com.android.chrome',
-    //     chromeOptions: {
-    //       args: ['--no-managed-user-acknowledgment-check', '--no-user-gesture-required', '--oobe-force-show-screen ⊗']
-    //     },
+    //     browserName: 'Safari',
     //     //orientation: 'PORTRAIT',
     //     //nativeInstrumentsLib: true,
     //     //isolateSimDevice: true,
-    //     //clearSystemFiles: true,
+    //     clearSystemFiles: true,
+    //     //commandTimeout: '7200',
     //     //app: APP_PATH
-    //     commandTimeout: '7200',
-    //     noReset: false,
-    //     //show_on_first_run_allowed: false,
-    //     dontStopAppOnReset: false,
-    //     show_on_first_run_allowed : false,
-    //     show_welcome_page: false,
-    //     appActivity: '.MainActivity',
-    //     appWaitActivity: 'SplashActivity',
-    //     noSign: true,
-    //     // intentCategory: 'android.intent.category.APP_CONTACTS',
-    //     // intentAction: 'android.intent.action.MAIN',
     // }],
+
+    capabilities: [{
+        appiumVersion: '1.15.0',
+        automationName: 'Appium',
+        platformName: 'Android',
+        //platformVersion: '9.0',
+        deviceName: 'emulator-5554',
+        //deviceName: 'iPhone 6s',
+        browserName: 'chrome',
+        // chromeOptions: {
+        //   androidPackage: 'com.android.chrome',
+        // },
+        //setDebugApp: '--persistent com.android.chrome',
+        chromeOptions: {
+          args: ['--no-managed-user-acknowledgment-check', '--no-user-gesture-required', '--oobe-force-show-screen ⊗']
+        },
+        //orientation: 'PORTRAIT',
+        //nativeInstrumentsLib: true,
+        //isolateSimDevice: true,
+        //clearSystemFiles: true,
+        //app: APP_PATH
+        commandTimeout: '7200',
+        noReset: false,
+        //show_on_first_run_allowed: false,
+        dontStopAppOnReset: false,
+        show_on_first_run_allowed : false,
+        show_welcome_page: false,
+        appActivity: '.MainActivity',
+        appWaitActivity: 'SplashActivity',
+        noSign: true,
+        // intentCategory: 'android.intent.category.APP_CONTACTS',
+        // intentAction: 'android.intent.action.MAIN',
+    }],
 
 
     host: '0.0.0.0',

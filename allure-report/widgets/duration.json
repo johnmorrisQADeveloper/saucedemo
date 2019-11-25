@@ -1,0 +1,141 @@
+[ {
+  "uid" : "dc3f18006722f1d",
+  "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+  "time" : {
+    "start" : 1574366886839,
+    "stop" : 1574366888988,
+    "duration" : 2149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d255d4bafdba19da",
+  "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+  "time" : {
+    "start" : 1574366886418,
+    "stop" : 1574366886839,
+    "duration" : 421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4d75775dceae25a",
+  "name" : "When I enter \"Selenium Webdriver\" into the search box",
+  "time" : {
+    "start" : 1574365598029,
+    "stop" : 1574365598029,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "22cad0ad6ebe41ac",
+  "name" : "And I click the search button",
+  "time" : {
+    "start" : 1574365599228,
+    "stop" : 1574365599229,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "84b90bd98d0e5b0",
+  "name" : "And I click the search button",
+  "time" : {
+    "start" : 1574365598030,
+    "stop" : 1574365598030,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8caa29278545139",
+  "name" : "Given I am on the phptravels page",
+  "time" : {
+    "start" : 1574366882714,
+    "stop" : 1574366886418,
+    "duration" : 3704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92c961f254bfdeff",
+  "name" : "Then I should see a list of search results",
+  "time" : {
+    "start" : 1574365598030,
+    "stop" : 1574365598030,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "723c532f0bd949ca",
+  "name" : "When I enter \"Selenium Webdriver\" into the search box",
+  "time" : {
+    "start" : 1574365599228,
+    "stop" : 1574365599228,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "219b781ae0cf3c09",
+  "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+  "time" : {
+    "start" : 1574366887980,
+    "stop" : 1574366888393,
+    "duration" : 413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bdc2a091e738be4",
+  "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+  "time" : {
+    "start" : 1574366888393,
+    "stop" : 1574366890967,
+    "duration" : 2574
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b47597397012137f",
+  "name" : "Then I should see a list of search results",
+  "time" : {
+    "start" : 1574365599229,
+    "stop" : 1574365599229,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3ef9cbf635b77dba",
+  "name" : "Given I am on the phptravels page",
+  "time" : {
+    "start" : 1574366882873,
+    "stop" : 1574366887980,
+    "duration" : 5107
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3cfc69101d16128",
+  "name" : "Given I am on the search page",
+  "time" : {
+    "start" : 1574365596111,
+    "stop" : 1574365598029,
+    "duration" : 1918
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "19bad79e6ee5bce7",
+  "name" : "Given I am on the search page",
+  "time" : {
+    "start" : 1574365598040,
+    "stop" : 1574365599228,
+    "duration" : 1188
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,82 @@
+{
+  "uid" : "d255d4bafdba19da",
+  "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+  "fullName" : "Performing a login: Performing login operation with passing test data as data table.When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+  "historyId" : "949c9ff44c8476d239af6760fa1c4f03",
+  "time" : {
+    "start" : 1574366886418,
+    "stop" : 1574366886839,
+    "duration" : 421
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc225ac5c9d68dc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366653613,
+        "stop" : 1574366653963,
+        "duration" : 350
+      }
+    }, {
+      "uid" : "4e6e9ecff2c99086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366574496,
+        "stop" : 1574366574786,
+        "duration" : 290
+      }
+    }, {
+      "uid" : "cb9851c89fb6dd2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574365600495,
+        "stop" : 1574365600907,
+        "duration" : 412
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d255d4bafdba19da.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

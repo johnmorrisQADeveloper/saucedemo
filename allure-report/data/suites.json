@@ -1,0 +1,199 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Performing a Yahoo Search: Performing a search operation",
+    "children" : [ {
+      "name" : "Given I am on the search page",
+      "uid" : "d3cfc69101d16128",
+      "parentUid" : "3f030c1cf6732929a242a716a1d4e025",
+      "status" : "failed",
+      "time" : {
+        "start" : 1574365596111,
+        "stop" : 1574365598029,
+        "duration" : 1918
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I enter \"Selenium Webdriver\" into the search box",
+      "uid" : "a4d75775dceae25a",
+      "parentUid" : "3f030c1cf6732929a242a716a1d4e025",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365598029,
+        "stop" : 1574365598029,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "And I click the search button",
+      "uid" : "84b90bd98d0e5b0",
+      "parentUid" : "3f030c1cf6732929a242a716a1d4e025",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365598030,
+        "stop" : 1574365598030,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see a list of search results",
+      "uid" : "92c961f254bfdeff",
+      "parentUid" : "3f030c1cf6732929a242a716a1d4e025",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365598030,
+        "stop" : 1574365598030,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    } ],
+    "uid" : "3f030c1cf6732929a242a716a1d4e025"
+  }, {
+    "name" : "Performing a Yahoo Search: Performing a search operation with passing test data as data table",
+    "children" : [ {
+      "name" : "Given I am on the search page",
+      "uid" : "19bad79e6ee5bce7",
+      "parentUid" : "62fa32b191507f6dd0e8aec99942801b",
+      "status" : "failed",
+      "time" : {
+        "start" : 1574365598040,
+        "stop" : 1574365599228,
+        "duration" : 1188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "And I click the search button",
+      "uid" : "22cad0ad6ebe41ac",
+      "parentUid" : "62fa32b191507f6dd0e8aec99942801b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365599228,
+        "stop" : 1574365599229,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I enter \"Selenium Webdriver\" into the search box",
+      "uid" : "723c532f0bd949ca",
+      "parentUid" : "62fa32b191507f6dd0e8aec99942801b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365599228,
+        "stop" : 1574365599228,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see a list of search results",
+      "uid" : "b47597397012137f",
+      "parentUid" : "62fa32b191507f6dd0e8aec99942801b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365599229,
+        "stop" : 1574365599229,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    } ],
+    "uid" : "62fa32b191507f6dd0e8aec99942801b"
+  }, {
+    "name" : "Performing a login: Performing login operation with passing test data as data table",
+    "children" : [ {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "8caa29278545139",
+      "parentUid" : "7a801112a92dc53069d043be457d0867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366882714,
+        "stop" : 1574366886418,
+        "duration" : 3704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "3ef9cbf635b77dba",
+      "parentUid" : "7a801112a92dc53069d043be457d0867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366882873,
+        "stop" : 1574366887980,
+        "duration" : 5107
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "d255d4bafdba19da",
+      "parentUid" : "7a801112a92dc53069d043be457d0867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366886418,
+        "stop" : 1574366886839,
+        "duration" : 421
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "dc3f18006722f1d",
+      "parentUid" : "7a801112a92dc53069d043be457d0867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366886839,
+        "stop" : 1574366888988,
+        "duration" : 2149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "219b781ae0cf3c09",
+      "parentUid" : "7a801112a92dc53069d043be457d0867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366887980,
+        "stop" : 1574366888393,
+        "duration" : 413
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    }, {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "5bdc2a091e738be4",
+      "parentUid" : "7a801112a92dc53069d043be457d0867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366888393,
+        "stop" : 1574366890967,
+        "duration" : 2574
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    } ],
+    "uid" : "7a801112a92dc53069d043be457d0867"
+  } ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "dc3f18006722f1d",
+  "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+  "fullName" : "Performing a login: Performing login operation with passing test data as data table.Then I should see the message \"Hi, Demo User\" on my account page",
+  "historyId" : "ec2425682ae64fa6966ed54e7ce83c4d",
+  "time" : {
+    "start" : 1574366886839,
+    "stop" : 1574366888988,
+    "duration" : 2149
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see the message \"Hi, Demo User\" on my account page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2ff8aa13416c9789",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366653963,
+        "stop" : 1574366655928,
+        "duration" : 1965
+      }
+    }, {
+      "uid" : "8b58019b6552d639",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366574787,
+        "stop" : 1574366577154,
+        "duration" : 2367
+      }
+    }, {
+      "uid" : "a7325ef1b95a1999",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574365600908,
+        "stop" : 1574365602901,
+        "duration" : 1993
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc3f18006722f1d.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

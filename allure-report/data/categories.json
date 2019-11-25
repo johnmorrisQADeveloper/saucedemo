@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected 'Yahoo is now part of Verizon Media' to equal 'Yahoo Search - Web Search'",
+      "children" : [ {
+        "name" : "Given I am on the search page",
+        "uid" : "d3cfc69101d16128",
+        "parentUid" : "fc83bc8b82d24255e72c7b22ebdb6b54",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574365596111,
+          "stop" : 1574365598029,
+          "duration" : 1918
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-78.0.3904.108" ]
+      }, {
+        "name" : "Given I am on the search page",
+        "uid" : "19bad79e6ee5bce7",
+        "parentUid" : "fc83bc8b82d24255e72c7b22ebdb6b54",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574365598040,
+          "stop" : 1574365599228,
+          "duration" : 1188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-78.0.3904.108" ]
+      } ],
+      "uid" : "fc83bc8b82d24255e72c7b22ebdb6b54"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

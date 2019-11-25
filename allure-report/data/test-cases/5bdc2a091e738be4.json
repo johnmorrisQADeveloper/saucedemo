@@ -1,0 +1,66 @@
+{
+  "uid" : "5bdc2a091e738be4",
+  "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+  "fullName" : "Performing a login: Performing login operation with passing test data as data table.Then I should see the message \"Hi, Demo User\" on my account page",
+  "historyId" : "1209bb1cb3d54a8a30b87f42d0716891",
+  "time" : {
+    "start" : 1574366888393,
+    "stop" : 1574366890967,
+    "duration" : 2574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see the message \"Hi, Demo User\" on my account page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Performing login operation with passing test data as data table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-19.0.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "abe20a085667497d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366656315,
+        "stop" : 1574366657361,
+        "duration" : 1046
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bdc2a091e738be4.json",
+  "parameterValues" : [ "firefox-19.0.0" ]
+}

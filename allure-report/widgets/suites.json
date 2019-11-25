@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "3f030c1cf6732929a242a716a1d4e025",
+    "name" : "Performing a Yahoo Search: Performing a search operation",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "62fa32b191507f6dd0e8aec99942801b",
+    "name" : "Performing a Yahoo Search: Performing a search operation with passing test data as data table",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "7a801112a92dc53069d043be457d0867",
+    "name" : "Performing a login: Performing login operation with passing test data as data table",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

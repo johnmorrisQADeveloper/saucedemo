@@ -1,5 +1,4 @@
 import Page from './page';
-import utl   from '../../utilities/common-utilities';
 
 class LoginPage extends Page {
 
@@ -7,16 +6,16 @@ class LoginPage extends Page {
     * define elements
     */
 
-    get usernameInput()   { return $('div.form-group:nth-child(1) > input:nth-child(3)'); }
-    get passwordInput()   { return $('.panel-body > div:nth-child(2) > input:nth-child(3)'); }
-    get loginButton()     { return $('//button[contains(., "Login")]'); }
-    get headerImage()     { return $('//img[@alt=\"Login\"]'); }
+    get usernameInput()   { return $('#user-name'); }
+    get passwordInput()   { return $('#password'); }
+    get loginButton()     { return $('.btn_action'); }
+    get headerImage()     { return $('.product_label'); }
 
     /**
      * define or overwrite page methods
      */
     open () {
-        super.open('login')       //this will append `login` to the baseUrl to form complete URL
+        super.open('/')       //this will append `login` to the baseUrl to form complete URL
         //browser.pause(3000);
     }
     /**

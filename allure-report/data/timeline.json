@@ -1,0 +1,355 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "1-0",
+    "children" : [ {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "5bdc2a091e738be4",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366888393,
+        "stop" : 1574366890967,
+        "duration" : 2574
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    }, {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "3ef9cbf635b77dba",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366882873,
+        "stop" : 1574366887980,
+        "duration" : 5107
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    }, {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "abe20a085667497d",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366656315,
+        "stop" : 1574366657361,
+        "duration" : 1046
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "219b781ae0cf3c09",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366887980,
+        "stop" : 1574366888393,
+        "duration" : 413
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "898194505c16f593",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366655875,
+        "stop" : 1574366656315,
+        "duration" : 440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    }, {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "2ff5c6dd5769750f",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366650194,
+        "stop" : 1574366655875,
+        "duration" : 5681
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-19.0.0" ]
+    } ],
+    "uid" : "5d884c24784638b93056bad95e3212e7"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "7de807bee8339039",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366648763,
+        "stop" : 1574366653612,
+        "duration" : 4849
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "4e6e9ecff2c99086",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366574496,
+        "stop" : 1574366574786,
+        "duration" : 290
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "d255d4bafdba19da",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366886418,
+        "stop" : 1574366886839,
+        "duration" : 421
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "8b58019b6552d639",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366574787,
+        "stop" : 1574366577154,
+        "duration" : 2367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "2ff8aa13416c9789",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366653963,
+        "stop" : 1574366655928,
+        "duration" : 1965
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "8caa29278545139",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366882714,
+        "stop" : 1574366886418,
+        "duration" : 3704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "dc3f18006722f1d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366886839,
+        "stop" : 1574366888988,
+        "duration" : 2149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "cb4036ab8f0c43ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574365596110,
+        "stop" : 1574365600494,
+        "duration" : 4384
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see the message \"Hi, Demo User\" on my account page",
+      "uid" : "a7325ef1b95a1999",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574365600908,
+        "stop" : 1574365602901,
+        "duration" : 1993
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Given I am on the phptravels page",
+      "uid" : "c58ca67949b8401",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366569378,
+        "stop" : 1574366574496,
+        "duration" : 5118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "fc225ac5c9d68dc0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574366653613,
+        "stop" : 1574366653963,
+        "duration" : 350
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I login with username and password \"user@phptravels.com\" \"demouser\" into the text box",
+      "uid" : "cb9851c89fb6dd2a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574365600495,
+        "stop" : 1574365600907,
+        "duration" : 412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "When I enter \"Selenium Webdriver\" into the search box",
+      "uid" : "723c532f0bd949ca",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365599228,
+        "stop" : 1574365599228,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see a list of search results",
+      "uid" : "92c961f254bfdeff",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365598030,
+        "stop" : 1574365598030,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "When I enter \"Selenium Webdriver\" into the search box",
+      "uid" : "a4d75775dceae25a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365598029,
+        "stop" : 1574365598029,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Then I should see a list of search results",
+      "uid" : "b47597397012137f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365599229,
+        "stop" : 1574365599229,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "And I click the search button",
+      "uid" : "22cad0ad6ebe41ac",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365599228,
+        "stop" : 1574365599229,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Given I am on the search page",
+      "uid" : "19bad79e6ee5bce7",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1574365598040,
+        "stop" : 1574365599228,
+        "duration" : 1188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "Given I am on the search page",
+      "uid" : "d3cfc69101d16128",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1574365596111,
+        "stop" : 1574365598029,
+        "duration" : 1918
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    }, {
+      "name" : "And I click the search button",
+      "uid" : "84b90bd98d0e5b0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1574365598030,
+        "stop" : 1574365598030,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-78.0.3904.108" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  } ]
+}

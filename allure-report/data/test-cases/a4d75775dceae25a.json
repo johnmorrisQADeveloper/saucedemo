@@ -1,0 +1,58 @@
+{
+  "uid" : "a4d75775dceae25a",
+  "name" : "When I enter \"Selenium Webdriver\" into the search box",
+  "fullName" : "Performing a Yahoo Search: Performing a search operation.When I enter \"Selenium Webdriver\" into the search box",
+  "historyId" : "4b4d8cff4b3f15edf05b20ae90587204",
+  "time" : {
+    "start" : 1574365598029,
+    "stop" : 1574365598029,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a Yahoo Search: Performing a search operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a Yahoo Search: Performing a search operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter \"Selenium Webdriver\" into the search box"
+  }, {
+    "name" : "package",
+    "value" : "Performing a Yahoo Search: Performing a search operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4d75775dceae25a.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}

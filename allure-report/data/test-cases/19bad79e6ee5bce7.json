@@ -1,0 +1,64 @@
+{
+  "uid" : "19bad79e6ee5bce7",
+  "name" : "Given I am on the search page",
+  "fullName" : "Performing a Yahoo Search: Performing a search operation with passing test data as data table.Given I am on the search page",
+  "historyId" : "1a19684c4105f433a0ec7f19f09a8c02",
+  "time" : {
+    "start" : 1574365598040,
+    "stop" : 1574365599228,
+    "duration" : 1188
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'Yahoo is now part of Verizon Media' to equal 'Yahoo Search - Web Search'",
+  "statusTrace" : "AssertionError: expected 'Yahoo is now part of Verizon Media' to equal 'Yahoo Search - Web Search'\n                    at World.<anonymous> (/Users/johnmorris/response/webapp/test/stepDefinitions/given.js:11:31)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a Yahoo Search: Performing a search operation with passing test data as data table"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a Yahoo Search: Performing a search operation with passing test data as data table"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the search page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a Yahoo Search: Performing a search operation with passing test data as data table"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-78.0.3904.108"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "19bad79e6ee5bce7.json",
+  "parameterValues" : [ "chrome-78.0.3904.108" ]
+}
