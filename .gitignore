@@ -7,3 +7,4 @@ test/reports/junit-results/*
 package-lock.json
 /test/reports/allure-results/*
 /test/reports/junit-results/*
+/allure-report
