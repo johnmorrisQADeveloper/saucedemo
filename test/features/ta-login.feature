@@ -13,5 +13,7 @@ Feature: Performing a login
         Then I should see the message "Products" on my account page
 
         Examples:
-        |user| |password|
-        |"standard_user"| |"secret_sauce"|
+            | user                      |  | password       |
+            | "standard_user"           |  | "secret_sauce" |
+            | "problem_user"            |  | "secret_sauce" |
+            | "performance_glitch_user" |  | "secret_sauce" |
