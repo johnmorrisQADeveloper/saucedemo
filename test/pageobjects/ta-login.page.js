@@ -9,7 +9,7 @@ class LoginPage extends Page {
     get usernameInput()   { return $('#user-name'); }
     get passwordInput()   { return $('#password'); }
     get loginButton()     { return $('.btn_action'); }
-    get headerImage()     { return $('.product_label'); }
+    get errorMessage()     { return $('#login_button_container > div > form > h3'); }
 
     /**
      * define or overwrite page methods
@@ -22,10 +22,8 @@ class LoginPage extends Page {
      * your page specific methods
      */
 
-    waitForloginPageToLoad () {
-      if(!this.headerImage.isDisplayed()){
-        this.headerImage.waitForDisplayed(10000);
-      }
+    getErrorMessage (){
+      return this.errorMessage.getText();
     }
 
     login (username, password) {

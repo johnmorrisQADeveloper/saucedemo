@@ -17,3 +17,12 @@ Feature: Performing a login
             | "standard_user"           |  | "secret_sauce" |
             | "problem_user"            |  | "secret_sauce" |
             | "performance_glitch_user" |  | "secret_sauce" |
+
+
+    Scenario Outline: Performing login operation with locked user
+        When I login with username and password <user> <password> into the text box
+        Then I should see the message "Epic sadface: Sorry, this user has been locked out." on my login page
+
+        Examples:
+            | user              |  | password       |
+            | "locked_out_user" |  | "secret_sauce" |
